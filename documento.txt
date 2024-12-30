@@ -1,0 +1,8 @@
+BootLoader
+
+PC liga -> 
+	-> Processador -> Imediatamente procura no endereço fisico 0xFFFFFFF0 para o codigo da BIOS
+	
+	
+Escrito em NASM (Netwide Assembler) para intel x86
+utilizando Bochs para testar
